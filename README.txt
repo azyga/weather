@@ -1,0 +1,1 @@
+Kilka indormacji o zadaniu

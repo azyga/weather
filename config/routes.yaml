@@ -1,0 +1,7 @@
+index:
+    path: /
+    controller: App\Controller\MainController::index
+    
+getWeather:
+    path: /getWeather
+    controller: App\Controller\MainController::getWeather
